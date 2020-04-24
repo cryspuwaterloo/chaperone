@@ -21,12 +21,12 @@ Please install the latest version of these dependencies before running the scrip
 
 ## Dataset setup
 
-We provide our experiment dataset in URL.
+You can download our experiment dataset in https://crysp.uwaterloo.ca/software/chaperone/chaperone_dataset.zip.
 The dataset includes two parts: 1. lab experiments (note as ```lab```) 2. real-
 world experiments (```real_world```).
 The groundtruth of lab experiments are stored in the folder ```groundtruth```.
-Please unzip the dataset and copy all three folders under the ```dataset``` folder.
-Note: if you change any folder name, please change the related fields
+Please create a ```dataset``` folder, unzip the dataset and put all three folders under the ```dataset``` folder.
+Note: if you use a different dataset directory, please change the related fields
 in ```setting.ini``` file accordingly.
 
 ## Basic usage

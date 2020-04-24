@@ -113,9 +113,6 @@ dmypy.json
 # idea profile
 .idea/
 
-# lab settings
-settings.ini
-
 # temporary files
 tmp/
 label/
