@@ -1,0 +1,4 @@
+include ':app'
+// include ':acoustic-tracker'
+include ':libacousticsensing'
+// project(':libacousticsensing').projectDir = new File('./libacousticsensing')

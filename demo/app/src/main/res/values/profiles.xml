@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profileArray">
+        <item>Pixel</item>
+        <item>Pixel 3</item>
+        <item>S8</item>
+    </string-array>
+
+</resources>
