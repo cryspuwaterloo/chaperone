@@ -61,7 +61,7 @@ Please replace ```<EXPERIMENT_CODE>``` with one of the following experiment code
 - ```real_world_per_user```: Real-world experiments - per user results
 - ```real_world_per_location```: Real-world experiments - per location results
 
-Note: ```lab_speed_angle``` may take several minutes in the training stage.
+Note: ```lab_speed_angle``` may take 10 minutes or more to generate the final results. Please be patient.
 
 ## Advanced usage - ASAnalyzer
 
