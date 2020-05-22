@@ -26,7 +26,9 @@ We also tested Chaperone and provide the support for the following models:
 - Samsung Galaxy S8
 - Huawei AL-10
 
-Note: Nexus 5x, 6p and Google Pixel share the same profile.
+Note: Nexus 5x, 6p and Google Pixel share the same profile. 
+
+- Please do not run the compiled app on virtual devices.
 
 ## Building
 
@@ -96,6 +98,8 @@ the main activity of Chaperone demo.
   It usually happens when you manually start the acoustic sensing. Just try to restart
   it until it works. If it fails several times, please check if your device is supported
   and if the speaker and the microphone of your phone are available.
+
+- Failed to start acoustic sensing: please make sure that the phone is not under "Do Not Disturb" mode and try again. 
 
 
 ## License

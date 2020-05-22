@@ -1,0 +1,1 @@
+Please download and unzip the dataset zip file here from: https://crysp.uwaterloo.ca/software/chaperone/chaperone_dataset.zip

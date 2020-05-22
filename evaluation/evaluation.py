@@ -646,9 +646,9 @@ if __name__ == '__main__':
             lab_experiment_nearby_stranger()
         elif experiment == experiments[2]:
             real_experiment_overall()
-        elif experiments == experiments[3]:
+        elif experiment == experiments[3]:
             real_world_per_user()
-        elif experiments == experiments[4]:
+        elif experiment == experiments[4]:
             real_world_per_location()
         else:
             print("This script supports the following experiments: ")
